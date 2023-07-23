@@ -1,0 +1,31 @@
+﻿  源.cpp
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\video.h(214,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\video.h(452,60): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\video.h(488,58): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\video.h(577,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\video.h(583,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\recommand.h(12,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\recommand.h(15,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\recommand.h(198,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\recommand.h(247,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(206,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(220,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(458,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(488,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(600,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(651,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(701,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(752,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(802,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(851,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\cluster.h(902,29): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\华工pc\大二下\数据结构大作业\code(1)\大作业\recommand.h(23): warning C4715: “urlfind”: 不是所有的控件路径都返回值
+  大作业.vcxproj -> D:\华工pc\大二下\数据结构大作业\code(1)\大作业\x64\Debug\大作业.exe
